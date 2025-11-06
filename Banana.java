@@ -15,7 +15,11 @@ public class Banana extends Actor
     public void act()
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         move(-3);
+=======
+        move(-5);
+>>>>>>> Stashed changes
 =======
         move(-5);
 >>>>>>> Stashed changes
