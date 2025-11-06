@@ -14,6 +14,6 @@ public class Banana extends Actor
      */
     public void act()
     {
-        move(-2);
+        move(-3);
     }
 }
